@@ -1,6 +1,5 @@
 ﻿
 
-
 # *ARTICLES One**
 [The Importance of Learning CSS](https://www.joshwcomeau.com/css/the-importance-of-learning-css/)
 
@@ -35,7 +34,6 @@
 [Jemima Abu's Blog - How I Built My Perfect Score Portfolio Website](https://blog.jemimaabu.com/how-i-built-my-perfect-score-portfolio-website)
 
 
-
 # *ARTICLES Two**
 [The Complete React Tutorial for 2021 – Learn Major React Concepts by Building a Project](https://www.freecodecamp.org/news/react-tutorial-build-a-project/)
 
@@ -46,3 +44,25 @@
 [What I know about SSH](https://dev.to/michaeldrrc/what-i-know-about-ssh-5ckk)
 
 [https://dev.to/michaeldrrc/what-i-know-about-ssh-5ckk](https://arctype.com/blog/deploy-postgres-kubernetes/)
+
+
+# *ARTICLES Three**
+[Why you need a jsconfig.js when using VSCode](https://laravel-news.com/jsconfigjs-vscode)
+
+[A CLI tool to generate strongly typed colors from assets catalogs](https://iosexample.com/a-cli-tool-to-generate-strongly-typed-colors-from-assets-catalogs/)
+
+[Building a Sudoku Puzzle Generator Using Vanilla JavaScript](https://javascript.plainenglish.io/building-a-sudoku-puzzle-generator-d55cead9656d)
+
+[Markdown](https://daringfireball.net/projects/markdown/)
+
+[Markdown-to-HTML](https://daringfireball.net/projects/markdown/dingus)
+
+[Code Refactoring with VS Code](https://code.visualstudio.com/docs/editor/refactoring)
+
+[freeCodeCamp](https://www.freecodecamp.org/learn/)
+
+[Git Handbook](https://guides.github.com/introduction/git-handbook/)
+
+[httpie cheatsheet](https://devhints.io/httpie)
+
+[Rowan Institute](https://www.rowaninstitute.org/what-we-do/)
