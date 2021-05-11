@@ -33,3 +33,16 @@
 [Jemima Abu](https://www.jemimaabu.com/index.html)
 
 [Jemima Abu's Blog - How I Built My Perfect Score Portfolio Website](https://blog.jemimaabu.com/how-i-built-my-perfect-score-portfolio-website)
+
+
+
+# *ARTICLES Two**
+[The Complete React Tutorial for 2021 – Learn Major React Concepts by Building a Project](https://www.freecodecamp.org/news/react-tutorial-build-a-project/)
+
+[React Tutorial Sandbox](https://codesandbox.io/s/silly-khayyam-qydzk?file=/src/App.js)
+
+[Understanding AWS Costs](https://dzone.com/articles/understanding-aws-costs)
+
+[What I know about SSH](https://dev.to/michaeldrrc/what-i-know-about-ssh-5ckk)
+
+[https://dev.to/michaeldrrc/what-i-know-about-ssh-5ckk](https://arctype.com/blog/deploy-postgres-kubernetes/)
