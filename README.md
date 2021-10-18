@@ -3,4 +3,6 @@ Articles, Links, Resources, Tutorials that have been waiting to be used. This pr
 
 ## [Web Dev Articles](./Web_Dev_Articles.md)
 
+## [Web Dev Resources](./Web_Dev_Resources.md)
+
 ## [Other Resources](./Other_Resources.md)
