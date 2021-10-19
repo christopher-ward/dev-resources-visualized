@@ -16,7 +16,9 @@
 - [Regex](#regex)
 - [Testing](#testing)
 
----
+--- 
+\
+&nbsp;
 
 ## *Babel*
 - [The State of babel-eslint](https://babeljs.io/blog/2020/07/13/the-state-of-babel-eslint)
