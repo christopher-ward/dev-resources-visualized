@@ -24,6 +24,7 @@
   - [Docs](#docs)
 - [Regex](#regex)
 - [Testing](#testing)
+  - [Jest](#jest)
 
 --- 
 \
