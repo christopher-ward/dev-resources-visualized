@@ -1,6 +1,7 @@
 # Web Dev Resources
 ## Contents
 - [Babel](#babel)
+- [Blitz](#blitz)
 - [Blogging](#blogging)
 - [Collections](#collections)
 - [CSS](#css)
@@ -16,6 +17,8 @@
   - [Articles / Examples](#articles--examples)
 - [JavaScript](#javascript)
 - [Junior Dev Tips](#junior-dev-tips)
+- [Linux](#linux)
+  - [Articles](#articles)
 - [Markdown Editors](#markdown-editors)
 - [Open Source](#open-source)
 - [React](#react)
@@ -34,6 +37,9 @@
 
 ## *Babel*
 - [The State of babel-eslint](https://babeljs.io/blog/2020/07/13/the-state-of-babel-eslint)
+
+## *Blitz*
+- [What is Blitz.js & How to Get Started With It](https://snipcart.com/blog/blitz-js-tutorial)
 
 ## *Blogging*
 - [Hashnode](https://hashnode.com/)
@@ -84,6 +90,10 @@
 
 ## *Junior Dev Tips*
 - [How to Review Code as a Junior Developer](https://medium.com/pinterest-engineering/how-to-review-code-as-a-junior-developer-10ffb7846958)
+
+## *Linux*
+### Articles
+- [13 Reasons Why You Should Use Linux!!](https://tanmay-vaish.hashnode.dev/13-reasons-why-you-should-use-linux)
 
 ## *Markdown Editors*
 - [StackEdit](https://stackedit.io/app#)
