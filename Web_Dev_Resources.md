@@ -30,6 +30,7 @@
 
 ## *Collections*
 - [Awesome React](https://github.com/enaqx/awesome-react)
+- [Awesome Free Developer Resources](https://github.com/codeSTACKr/free-developer-resources)
 
 ## *CSS*
 ### Art
