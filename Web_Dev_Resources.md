@@ -1,8 +1,12 @@
 # Web Dev Resources
+## Contents
+- [CSS](#css)
+- [React](#react)
 ## *Collections*
 [Awesome React](https://github.com/enaqx/awesome-react)
 
 ## *CSS*
+
 ### Art
 [How I Make CSS Art](https://yosracodes.hashnode.dev/how-i-make-css-art)
 ### 3D
