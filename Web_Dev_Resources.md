@@ -13,6 +13,7 @@
 - [Full Stack](#fullstack)
 - [Games](#games)
   - [Visual Assets](#visual-assets)
+  - [Articles / Examples](#articles--examples)
 - [JavaScript](#javascript)
 - [Junior Dev Tips](#junior-dev-tips)
 - [Markdown Editors](#markdown-editors)
