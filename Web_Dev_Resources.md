@@ -16,6 +16,7 @@
 - [Markdown Editors](#markdown-editors)
 - [Open Source](#open-source)
 - [React](#react)
+  - [Rendering](#rendering)
   - [Routing](#routing)
   - [Examples](#examples) 
 - [Redux](#redux)
@@ -81,6 +82,9 @@
 - [Open Source Needs You](https://javascript.plainenglish.io/open-source-needs-you-56015c4a07ac)
 
 ## *React*
+### Rendering
+- [A Visual Guide to React Rendering - Cheat Sheet](https://dev.to/sidkh/a-visual-guide-to-react-rendering-cheat-sheet-2482)
+
 ### Routing
 - [Routing React Apps: The Complete Guide](https://scotch.io/tutorials/routing-react-apps-the-complete-guide)
 - [How to Learn React — A roadmap from beginner to advanced](https://www.freecodecamp.org/news/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6/)
