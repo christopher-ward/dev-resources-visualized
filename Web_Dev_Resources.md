@@ -1,7 +1,7 @@
 # Web Dev Resources
 \
 &nbsp;
-## Contents
+## Table of Contents
 - [Babel](#babel)
 - [Blogging](#blogging)
 - [Collections](#collections)
