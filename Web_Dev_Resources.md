@@ -42,6 +42,7 @@
 ### Parallax Animation
 - [Parallax scroll animation](https://codepen.io/isladjan/pen/abdyPBw)
 - [islajan Codepens](https://codepen.io/collection/DxkYzq)
+
 ### Units
 - [The most underappreciated CSS unit - ch](https://www.youtube.com/watch?v=dgbFtMBOMlA)
 
@@ -57,7 +58,7 @@
 
 ## *JavaScript*
 ### Event Loop
-- [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=8s)
+- [What the heck is the event loop anyway? - Philip Roberts - JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=8s)
 
 ## *Junior Dev Tips*
 - [How to Review Code as a Junior Developer](https://medium.com/pinterest-engineering/how-to-review-code-as-a-junior-developer-10ffb7846958)
