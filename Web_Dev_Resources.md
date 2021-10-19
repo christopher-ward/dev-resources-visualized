@@ -19,23 +19,23 @@
 ---
 
 ## *Babel*
-[The State of babel-eslint](https://babeljs.io/blog/2020/07/13/the-state-of-babel-eslint)
+- [The State of babel-eslint](https://babeljs.io/blog/2020/07/13/the-state-of-babel-eslint)
 
 ## *Blogging*
-[Hashnode](https://hashnode.com/)
+- [Hashnode](https://hashnode.com/)
 
 ## *Collections*
-[Awesome React](https://github.com/enaqx/awesome-react)
+- [Awesome React](https://github.com/enaqx/awesome-react)
 
 ## *CSS*
 ### Art
-[How I Make CSS Art](https://yosracodes.hashnode.dev/how-i-make-css-art)
+- [How I Make CSS Art](https://yosracodes.hashnode.dev/how-i-make-css-art)
 ### 3D
-[3D CSS - lighting, animations, and more!](https://www.youtube.com/watch?v=NdftnCDwKaU)
-[How CSS Perspective Works](https://css-tricks.com/how-css-perspective-works/)
-[perspective](https://css-tricks.com/almanac/properties/p/perspective/)
-[Amit Sheen Codepens](https://codepen.io/amit_sheen/pens/public?cursor=ZD0wJm89MSZwPTEmdj01MjEyNDc3NQ==)
-[3D CSS Typography](https://codepen.io/noahblon/pen/CsxfH)
+- [3D CSS - lighting, animations, and more!](https://www.youtube.com/watch?v=NdftnCDwKaU)
+- [How CSS Perspective Works](https://css-tricks.com/how-css-perspective-works/)
+- [perspective](https://css-tricks.com/almanac/properties/p/perspective/)
+- [Amit Sheen Codepens](https://codepen.io/amit_sheen/pens/public?cursor=ZD0wJm89MSZwPTEmdj01MjEyNDc3NQ==)
+- [3D CSS Typography](https://codepen.io/noahblon/pen/CsxfH)
 [Tricks for Using CSS translateZ() and perspective()](https://www.digitalocean.com/community/tutorials/css-translatez-and-perspective)
 ### Parallax Animation
 [Parallax scroll animation](https://codepen.io/isladjan/pen/abdyPBw)
@@ -68,9 +68,15 @@
 
 ## *React*
 ### Routing
-[Routing React Apps: The Complete Guide](https://scotch.io/tutorials/routing-react-apps-the-complete-guide)
-[How to Learn React — A roadmap from beginner to advanced](https://www.freecodecamp.org/news/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6/)
-[A Simple React Router v4 Tutorial](https://blog.pshrmn.com/simple-react-router-v4-tutorial/)
+- [Routing React Apps: The Complete Guide](https://scotch.io/tutorials/routing-react-apps-the-complete-guide)
+- [How to Learn React — A roadmap from beginner to advanced](https://www.freecodecamp.org/news/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6/)
+- [A Simple React Router v4 Tutorial](https://blog.pshrmn.com/simple-react-router-v4-tutorial/)
+### Examples
+- [E-commerce Games Built With React](https://reactjsexample.com/e-commerce-games-built-with-react/)
+- [A Typing Speed Game Built With React](https://reactjsexample.com/a-typing-speed-game-built-with-react/)
+  - [**Repository**](https://github.com/Didier187/SpeedTypingGame)
+- [A Fully Functional E-Commerce Website Built With React, With Authentication and Credit Card Support](https://reactjsexample.com/a-fully-functional-e-commerce-website-built-with-react-with-authentication-and-credit-card-support/)
+  - [**Repository**](https://github.com/Idanref/react-ecommerce?ref=reactjsexample.com)
 
 ## *Redux*
 ### Docs
