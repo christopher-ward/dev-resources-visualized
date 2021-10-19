@@ -30,6 +30,7 @@
 ## *CSS*
 ### Art
 - [How I Make CSS Art](https://yosracodes.hashnode.dev/how-i-make-css-art)
+
 ### 3D
 - [3D CSS - lighting, animations, and more!](https://www.youtube.com/watch?v=NdftnCDwKaU)
 - [How CSS Perspective Works](https://css-tricks.com/how-css-perspective-works/)
@@ -37,6 +38,7 @@
 - [Amit Sheen Codepens](https://codepen.io/amit_sheen/pens/public?cursor=ZD0wJm89MSZwPTEmdj01MjEyNDc3NQ==)
 - [3D CSS Typography](https://codepen.io/noahblon/pen/CsxfH)
 - [Tricks for Using CSS translateZ() and perspective()](https://www.digitalocean.com/community/tutorials/css-translatez-and-perspective)
+
 ### Parallax Animation
 - [Parallax scroll animation](https://codepen.io/isladjan/pen/abdyPBw)
 - [islajan Codepens](https://codepen.io/collection/DxkYzq)
