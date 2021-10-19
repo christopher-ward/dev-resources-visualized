@@ -11,6 +11,8 @@
 - [Desktop JS](#desktop-js)
 - [Ethical Hacking](#ethical-hacking)
 - [Full Stack](#fullstack)
+- [Games](#games)
+  - [Visual Assets](#visual-assets)
 - [JavaScript](#javascript)
 - [Junior Dev Tips](#junior-dev-tips)
 - [Markdown Editors](#markdown-editors)
@@ -67,6 +69,10 @@
 ## *Fullstack*
 ### RGT
 - [Fullstack React GraphQL TypeScript Tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8)
+
+## *Games*
+### Visual Assets
+- [Open Game Art](https://opengameart.org/)
 
 ## *JavaScript*
 ### Event Loop
