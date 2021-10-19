@@ -7,7 +7,7 @@
 - [Collections](#collections)
 - [CSS](#css)
   - [Art](#art)
-  - [3D](#3D)
+  - [3D](#3d)
   - [Parallax Animation](#parallax-animation)
   - [Units](#units) 
 - [Desktop JS](#desktop-js)
