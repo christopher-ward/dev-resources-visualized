@@ -1,5 +1,5 @@
 # Web Dev Resources
-## Table of Contents
+## Contents
 - [Babel](#babel)
 - [Blogging](#blogging)
 - [Collections](#collections)
