@@ -2,6 +2,8 @@
 ## Contents
 - [CSS](#css)
 - [React](#react)
+
+---
 ## *Collections*
 [Awesome React](https://github.com/enaqx/awesome-react)
 
