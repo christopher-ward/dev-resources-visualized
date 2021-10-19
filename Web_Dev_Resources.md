@@ -3,7 +3,7 @@
 - [CSS](#css)
 - [Full Stack](#fullstack)
 - [JavaScript](#javascript)
-- [Junior Dev Tips](#junior dev tips)
+- [Junior Dev Tips](#junior-dev-tips)
 - [React](#react)
 
 ---
