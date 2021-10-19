@@ -1,18 +1,33 @@
 # Web Dev Resources
 ## Contents
+- [Babel](#babel)
+- [Blogging](#blogging)
+- [Collections](#collections)
 - [CSS](#css)
+- [Desktop JS](#desktop-js)
+- [Ethical Hacking](#ethical-hacking)
 - [Full Stack](#fullstack)
 - [JavaScript](#javascript)
 - [Junior Dev Tips](#junior-dev-tips)
+- [Markdown Editors](#markdown-editors)
+- [Open Source](#open-source)
 - [React](#react)
+- [Redux](#redux)
+- [Regex](#regex)
+- [Testing](#testing)
 
 ---
+
+## *Babel*
+[The State of babel-eslint](https://babeljs.io/blog/2020/07/13/the-state-of-babel-eslint)
+
+## *Blogging*
+[Hashnode](https://hashnode.com/)
 
 ## *Collections*
 [Awesome React](https://github.com/enaqx/awesome-react)
 
 ## *CSS*
-
 ### Art
 [How I Make CSS Art](https://yosracodes.hashnode.dev/how-i-make-css-art)
 ### 3D
@@ -28,7 +43,13 @@
 ### Units
 [The most underappreciated CSS unit - ch](https://www.youtube.com/watch?v=dgbFtMBOMlA)
 
-## Fullstack
+## *Desktop JS*
+[Deno: Desktop JS Evolved](https://www.sitepen.com/blog/deno-desktop-js-evolved)
+
+## *Ethical Hacking*
+[How To Become a Hacker In a Year](https://cult.honeypot.io/reads/how-to-become-a-hacker-in-a-year/)
+
+## *Fullstack*
 ### RGT
 [Fullstack React GraphQL TypeScript Tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8)
 
@@ -42,20 +63,8 @@
 ## *Markdown Editors*
 [StackEdit](https://stackedit.io/app#)
 
-## Open Source
+## *Open Source*
 [Open Source Needs You](https://javascript.plainenglish.io/open-source-needs-you-56015c4a07ac)
-
-## *Babel*
-[The State of babel-eslint](https://babeljs.io/blog/2020/07/13/the-state-of-babel-eslint)
-
-## *Blogging*
-[Hashnode](https://hashnode.com/)
-
-## *Desktop JS*
-[Deno: Desktop JS Evolved](https://www.sitepen.com/blog/deno-desktop-js-evolved)
-
-## *Ethical Hacking*
-[How To Become a Hacker In a Year](https://cult.honeypot.io/reads/how-to-become-a-hacker-in-a-year/)
 
 ## *React*
 ### Routing
