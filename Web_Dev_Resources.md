@@ -1,4 +1,6 @@
 # Web Dev Resources
+\
+&nbsp;
 ## Contents
 - [Babel](#babel)
 - [Blogging](#blogging)
