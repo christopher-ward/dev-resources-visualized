@@ -71,6 +71,9 @@
 - [Fullstack React GraphQL TypeScript Tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8)
 
 ## *Games*
+### Articles / Examples
+- [I made a top-down game version of my blog with Phaser and React](https://javascript.plainenglish.io/i-made-a-top-down-game-version-of-my-blog-with-phaser-and-react-faf5c28cf768)
+
 ### Visual Assets
 - [Open Game Art](https://opengameart.org/)
 
