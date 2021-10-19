@@ -18,7 +18,10 @@
 - [Markdown Editors](#markdown-editors)
 - [Open Source](#open-source)
 - [React](#react)
+  - [Routing](#routing)
+  - [Examples](#examples) 
 - [Redux](#redux)
+  - [Docs](#docs)
 - [Regex](#regex)
 - [Testing](#testing)
 
