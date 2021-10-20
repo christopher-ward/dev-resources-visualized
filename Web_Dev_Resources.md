@@ -20,7 +20,9 @@
 - [Junior Dev Tips](#junior-dev-tips)
 - [Linux](#linux)
   - [Articles](#articles)
-- [Markdown Editors](#markdown-editors)
+- [Markdown](#markdown)
+  - [Editors](#editors)
+  - [Cheatsheets](#cheatsheets) 
 - [Open Source](#open-source)
 - [React](#react)
   - [Rendering](#rendering)
@@ -99,7 +101,11 @@
 ### Articles
 - [13 Reasons Why You Should Use Linux!!](https://tanmay-vaish.hashnode.dev/13-reasons-why-you-should-use-linux)
 
-## *Markdown Editors*
+## *Markdown*
+### Cheatsheets
+- [Markdown Syntax Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+### Editors
 - [StackEdit](https://stackedit.io/app#)
 
 ## *Open Source*
