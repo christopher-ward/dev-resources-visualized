@@ -8,6 +8,7 @@
   - [Art](#art)
   - [3D](#3d)
   - [Parallax Animation](#parallax-animation)
+  - [Practice](#practice)
   - [Units](#units) 
 - [Desktop JS](#desktop-js)
 - [Ethical Hacking](#ethical-hacking)
@@ -63,6 +64,9 @@
 ### Parallax Animation
 - [Parallax scroll animation](https://codepen.io/isladjan/pen/abdyPBw)
 - [islajan Codepens](https://codepen.io/collection/DxkYzq)
+
+### Practice
+- [CSS Battle](https://cssbattle.dev/)
 
 ### Units
 - [The most underappreciated CSS unit - ch](https://www.youtube.com/watch?v=dgbFtMBOMlA)
