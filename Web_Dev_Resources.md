@@ -75,6 +75,10 @@
 ### Units
 - [The most underappreciated CSS unit - ch](https://www.youtube.com/watch?v=dgbFtMBOMlA)
 
+## *Cloudflare*
+### Workers
+- [Install and Configure the Cloudflare Workers CLI Wrangler](https://egghead.io/lessons/cloudflare-install-and-configure-the-cloudflare-workers-cli-wrangler)
+
 ## *Desktop JS*
 - [Deno: Desktop JS Evolved](https://www.sitepen.com/blog/deno-desktop-js-evolved)
 
@@ -94,7 +98,11 @@
 
 ## *GitHub*
 ### GH Docs / Training
-- (https://githubtraining.github.io/training-manual/#/)
+- [GitHub Training Hub](https://training.github.com/)
+- [GitHub Training Manual](https://githubtraining.github.io/training-manual/#/)
+
+### Pages
+- [How to Deploy React App to GitHub Pages](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
 
 ## *JavaScript*
 ### Event Loop
