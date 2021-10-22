@@ -16,6 +16,8 @@
 - [Games](#games)
   - [Visual Assets](#visual-assets)
   - [Articles / Examples](#articles--examples)
+- [GitHub](#github)
+  - [Docs](#docs)
 - [JavaScript](#javascript)
 - [Junior Dev Tips](#junior-dev-tips)
 - [Linux](#linux)
@@ -89,6 +91,10 @@
 
 ### Visual Assets
 - [Open Game Art](https://opengameart.org/)
+
+## *GitHub*
+### Docs / Training
+- (https://githubtraining.github.io/training-manual/#/)
 
 ## *JavaScript*
 ### Event Loop
