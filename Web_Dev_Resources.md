@@ -114,6 +114,7 @@
 ## *Linux*
 ### Articles
 - [13 Reasons Why You Should Use Linux!!](https://tanmay-vaish.hashnode.dev/13-reasons-why-you-should-use-linux)
+- [How to Get the Size of a Directory in Linux](https://linuxize.com/post/how-get-size-of-file-directory-linux/)
 
 ## *Markdown*
 ### Cheatsheets
