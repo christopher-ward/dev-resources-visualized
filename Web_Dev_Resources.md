@@ -124,6 +124,7 @@
 
 ## *Open Source*
 - [Open Source Needs You](https://javascript.plainenglish.io/open-source-needs-you-56015c4a07ac)
+- [EXPLORE OPEN SOURCE PROJECTS AND JUMP IN!](https://up-for-grabs.net/#/filters?names=819)
 
 ## *React*
 ### Rendering
