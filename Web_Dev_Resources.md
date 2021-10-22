@@ -17,7 +17,7 @@
   - [Visual Assets](#visual-assets)
   - [Articles / Examples](#articles--examples)
 - [GitHub](#github)
-  - [GH Docs / Training](#docs--training)
+  - [GH Docs / Training](#gh-docs--training)
 - [JavaScript](#javascript)
 - [Junior Dev Tips](#junior-dev-tips)
 - [Linux](#linux)
@@ -31,7 +31,7 @@
   - [Routing](#routing)
   - [Examples](#examples) 
 - [Redux](#redux)
-  - [Rdx Docs](#docs)
+  - [Redux Docs](#redux-docs)
 - [Regex](#regex)
 - [Testing](#testing)
   - [Jest](#jest)
@@ -93,7 +93,7 @@
 - [Open Game Art](https://opengameart.org/)
 
 ## *GitHub*
-### Docs / Training
+### GH Docs / Training
 - (https://githubtraining.github.io/training-manual/#/)
 
 ## *JavaScript*
@@ -134,7 +134,7 @@
   - [**Repository**](https://github.com/Idanref/react-ecommerce?ref=reactjsexample.com)
 
 ## *Redux*
-### Docs
+### Redux Docs
 - [Three Principles](https://redux.js.org/understanding/thinking-in-redux/three-principles)
 
 ## *Regex*
