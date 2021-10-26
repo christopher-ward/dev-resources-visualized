@@ -45,16 +45,24 @@
 
 ## *Babel*
 - [The State of babel-eslint](https://babeljs.io/blog/2020/07/13/the-state-of-babel-eslint)
+\
+&nbsp;
 
 ## *Blitz*
 - [What is Blitz.js & How to Get Started With It](https://snipcart.com/blog/blitz-js-tutorial)
+\
+&nbsp;
 
 ## *Blogging*
 - [Hashnode](https://hashnode.com/)
+\
+&nbsp;
 
 ## *Collections*
 - [Awesome React](https://github.com/enaqx/awesome-react)
 - [Awesome Free Developer Resources](https://github.com/codeSTACKr/free-developer-resources)
+\
+&nbsp;
 
 ## *CSS*
 ### Art
@@ -77,27 +85,41 @@
 
 ### Units
 - [The most underappreciated CSS unit - ch](https://www.youtube.com/watch?v=dgbFtMBOMlA)
+\
+&nbsp;
 
 ## *Cloudflare*
 ### Workers
 - [Install and Configure the Cloudflare Workers CLI Wrangler](https://egghead.io/lessons/cloudflare-install-and-configure-the-cloudflare-workers-cli-wrangler)
+\
+&nbsp;
 
 ## *Documenting*
 ### Code Blocks
 - [Create Images of Source Code - Carbon](https://carbon.now.sh/)
+\
+&nbsp;
 
 ## *DOM Events*
 - [Learn about the DOM Event system through exploration](https://domevents.dev/)
+\
+&nbsp;
 
 ## *Desktop JS*
 - [Deno: Desktop JS Evolved](https://www.sitepen.com/blog/deno-desktop-js-evolved)
+\
+&nbsp;
 
 ## *Ethical Hacking*
 - [How To Become a Hacker In a Year](https://cult.honeypot.io/reads/how-to-become-a-hacker-in-a-year/)
+\
+&nbsp;
 
 ## *Fullstack*
 ### RGT
 - [Fullstack React GraphQL TypeScript Tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8)
+\
+&nbsp;
 
 ## *Games*
 ### Articles / Examples
@@ -105,6 +127,8 @@
 
 ### Visual Assets
 - [Open Game Art](https://opengameart.org/)
+\
+&nbsp;
 
 ## *GitHub*
 ### GH Docs / Training
@@ -113,18 +137,26 @@
 
 ### Pages
 - [How to Deploy React App to GitHub Pages](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
+\
+&nbsp;
 
 ## *JavaScript*
 ### Event Loop
 - [What the heck is the event loop anyway? - Philip Roberts - JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=8s)
+\
+&nbsp;
 
 ## *Junior Dev Tips*
 - [How to Review Code as a Junior Developer](https://medium.com/pinterest-engineering/how-to-review-code-as-a-junior-developer-10ffb7846958)
+\
+&nbsp;
 
 ## *Linux*
 ### Articles
 - [13 Reasons Why You Should Use Linux!!](https://tanmay-vaish.hashnode.dev/13-reasons-why-you-should-use-linux)
 - [How to Get the Size of a Directory in Linux](https://linuxize.com/post/how-get-size-of-file-directory-linux/)
+\
+&nbsp;
 
 ## *Markdown*
 ### Cheatsheets
@@ -132,11 +164,15 @@
 
 ### Editors
 - [StackEdit](https://stackedit.io/app#)
+\
+&nbsp;
 
 ## *Open Source*
 - [Open Source Needs You](https://javascript.plainenglish.io/open-source-needs-you-56015c4a07ac)
 - [EXPLORE OPEN SOURCE PROJECTS AND JUMP IN!](https://up-for-grabs.net/#/filters?names=819)
 - [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners)
+\
+&nbsp;
 
 ## *React*
 ### Rendering
@@ -153,10 +189,14 @@
   - [**Repository**](https://github.com/Didier187/SpeedTypingGame)
 - [A Fully Functional E-Commerce Website Built With React, With Authentication and Credit Card Support](https://reactjsexample.com/a-fully-functional-e-commerce-website-built-with-react-with-authentication-and-credit-card-support/)
   - [**Repository**](https://github.com/Idanref/react-ecommerce?ref=reactjsexample.com)
+\
+&nbsp;
 
 ## *Redux*
 ### Redux Docs
 - [Three Principles](https://redux.js.org/understanding/thinking-in-redux/three-principles)
+\
+&nbsp;
 
 ## *Regex*
 - [freeCodeCamp Regex Articles](https://www.freecodecamp.org/news/tag/regex/)
@@ -164,6 +204,8 @@
 - [Learn Regular Expressions with this free course](https://www.freecodecamp.org/news/learn-regular-expressions-with-this-free-course-37511963d278/)
 - [regexr - Regex Palindrome Detector](https://regexr.com/4tmui)
 - [Regex Crossword](https://regexcrossword.com/)
+\
+&nbsp;
 
 ## *Testing*
 ### Jest
