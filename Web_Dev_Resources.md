@@ -13,6 +13,7 @@
 - [Desktop JS](#desktop-js)
 - [Documenting](#documenting)
   - [Code Blocks](#code-blocks)
+- [DOM Events](#dom-events)
 - [Ethical Hacking](#ethical-hacking)
 - [Full Stack](#fullstack)
 - [Games](#games)
@@ -84,6 +85,9 @@
 ## *Documenting*
 ### Code Blocks
 - [Create Images of Source Code - Carbon](https://carbon.now.sh/)
+
+## *DOM Events*
+- [Learn about the DOM Event system through exploration](https://domevents.dev/)
 
 ## *Desktop JS*
 - [Deno: Desktop JS Evolved](https://www.sitepen.com/blog/deno-desktop-js-evolved)
