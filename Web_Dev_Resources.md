@@ -192,6 +192,10 @@
 \
 &nbsp;
 
+## *React Hooks*
+### Hooks Tutorials
+- [React Hook Form Tutorial with Examples](https://javascript.plainenglish.io/react-hook-form-tutorial-with-examples-34ac9aea3e55)
+
 ## *Redux*
 ### Redux Docs
 - [Three Principles](https://redux.js.org/understanding/thinking-in-redux/three-principles)
