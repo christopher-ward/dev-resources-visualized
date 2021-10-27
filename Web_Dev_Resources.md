@@ -65,6 +65,7 @@
 ## *Collections*
 - [Awesome React](https://github.com/enaqx/awesome-react)
 - [Awesome Free Developer Resources](https://github.com/codeSTACKr/free-developer-resources)
+- [Kevin Powell Suggested Resources](https://www.kevinpowell.co/resources/)
 \
 &nbsp;
 
