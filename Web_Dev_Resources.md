@@ -7,12 +7,14 @@
 - [CSS](#css)
   - [Art](#art)
   - [3D](#3d)
+  - [Kevin Powell](#kevin-powell)
   - [Parallax Animation](#parallax-animation)
   - [Practice](#practice)
   - [Units](#units) 
 - [Desktop JS](#desktop-js)
 - [Documenting](#documenting)
   - [Code Blocks](#code-blocks)
+  - [Screen Recording](#screen-recording)
 - [DOM Events](#dom-events)
 - [Ethical Hacking](#ethical-hacking)
 - [Full Stack](#fullstack)
@@ -78,6 +80,9 @@
 - [3D CSS Typography](https://codepen.io/noahblon/pen/CsxfH)
 - [Tricks for Using CSS translateZ() and perspective()](https://www.digitalocean.com/community/tutorials/css-translatez-and-perspective)
 
+### Kevin Powell
+- [Kevin Powell Codepens](https://codepen.io/kevinpowell/pens/public?grid_type=list&sort_col=created_at&sort_order=asc&cursor=ZD0xJm89MSZwPTEmdj0xODY1NzQ4Mw==)
+
 ### Parallax Animation
 - [Parallax scroll animation](https://codepen.io/isladjan/pen/abdyPBw)
 - [islajan Codepens](https://codepen.io/collection/DxkYzq)
@@ -99,6 +104,9 @@
 ## *Documenting*
 ### Code Blocks
 - [Create Images of Source Code - Carbon](https://carbon.now.sh/)
+
+### Screen Recording
+- [Record quick videos of your screen and cam](https://www.loom.com/)
 \
 &nbsp;
 
