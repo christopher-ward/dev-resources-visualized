@@ -22,6 +22,7 @@
   - [Visual Assets](#visual-assets)
   - [Articles / Examples](#articles--examples)
 - [GitHub](#github)
+  - [GH Articles](#gh-articles)
   - [GH Docs / Training](#gh-docs--training)
 - [JavaScript](#javascript)
 - [Junior Dev Tips](#junior-dev-tips)
@@ -142,6 +143,9 @@
 &nbsp;
 
 ## *GitHub*
+### GH Articles
+- [How to combine two git repositories](https://gist.github.com/msrose/2feacb303035d11d2d05)
+
 ### GH Docs / Training
 - [GitHub Training Hub](https://training.github.com/)
 - [GitHub Training Manual](https://githubtraining.github.io/training-manual/#/)
