@@ -3,7 +3,7 @@
 - [Babel](#babel)
 - [Blitz](#blitz)
 - [Blogging](#blogging)
-- [CMS](#CMS)
+- [CMS](#cms)
 - [Collections](#collections)
 - [CSS](#css)
   - [Art](#art)
