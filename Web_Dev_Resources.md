@@ -22,6 +22,7 @@
 - [Games](#games)
   - [Visual Assets](#visual-assets)
   - [Articles / Examples](#articles--examples)
+- [Git](#git)
 - [GitHub](#github)
   - [GH Articles](#gh-articles)
   - [GH Docs / Training](#gh-docs--training)
@@ -145,6 +146,9 @@
 - [Open Game Art](https://opengameart.org/)
 \
 &nbsp;
+
+## *Git*
+- [Git for Professionals – Free Version Control Course](https://www.freecodecamp.org/news/git-for-professionals/)
 
 ## *GitHub*
 ### GH Articles
