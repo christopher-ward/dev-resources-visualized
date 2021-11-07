@@ -1,5 +1,7 @@
 # Web Dev Resources
 ## Contents
+- [Assets](#assets)
+  - [Icons](#icons)
 - [Babel](#babel)
 - [Blitz](#blitz)
 - [Blogging](#blogging)
@@ -51,6 +53,13 @@
   - [Jest](#jest)
 
 --- 
+\
+&nbsp;
+
+## *Assets*
+### Icons
+- [Devicon](https://devicon.dev/)
+  - [Devicon GH](https://github.com/devicons/devicon)
 \
 &nbsp;
 
