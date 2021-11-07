@@ -15,6 +15,9 @@
   - [Parallax Animation](#parallax-animation)
   - [Practice](#practice)
   - [Units](#units) 
+- [Design](#design)
+  - [Design Systems](#design-systems)
+  - [Wireframes / Prototypes](#wireframes--prototypes)
 - [Desktop JS](#desktop-js)
 - [Documenting](#documenting)
   - [Code Blocks](#code-blocks)
@@ -126,6 +129,11 @@
 \
 &nbsp;
 
+## *Desktop JS*
+- [Deno: Desktop JS Evolved](https://www.sitepen.com/blog/deno-desktop-js-evolved)
+\
+&nbsp;
+
 ## *Documenting*
 ### Code Blocks
 - [Create Images of Source Code - Carbon](https://carbon.now.sh/)
@@ -137,11 +145,6 @@
 
 ## *DOM Events*
 - [Learn about the DOM Event system through exploration](https://domevents.dev/)
-\
-&nbsp;
-
-## *Desktop JS*
-- [Deno: Desktop JS Evolved](https://www.sitepen.com/blog/deno-desktop-js-evolved)
 \
 &nbsp;
 
