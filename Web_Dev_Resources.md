@@ -3,6 +3,7 @@
 - [Babel](#babel)
 - [Blitz](#blitz)
 - [Blogging](#blogging)
+- [Bootstrap](#bootstrap)
 - [CMS](#cms)
 - [Collections](#collections)
 - [CSS](#css)
@@ -65,6 +66,11 @@
 
 ## *Blogging*
 - [Hashnode](https://hashnode.com/)
+\
+&nbsp;
+
+## *Bootstrap*
+- [Bootstrap Intro](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 \
 &nbsp;
 
