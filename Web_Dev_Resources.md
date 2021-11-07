@@ -43,6 +43,8 @@
 - [Redux](#redux)
   - [Redux Docs](#redux-docs)
 - [Regex](#regex)
+- [Start_Bootstrap](#start_bootstrap)
+  - [Templates](#templates)
 - [Testing](#testing)
   - [Jest](#jest)
 
@@ -233,6 +235,14 @@
 - [Learn Regular Expressions with this free course](https://www.freecodecamp.org/news/learn-regular-expressions-with-this-free-course-37511963d278/)
 - [regexr - Regex Palindrome Detector](https://regexr.com/4tmui)
 - [Regex Crossword](https://regexcrossword.com/)
+\
+&nbsp;
+
+## *Start_Bootstrap*
+### Templates
+- [Resume](https://startbootstrap.com/theme/resume)
+- [Freelancer](https://startbootstrap.com/theme/freelancer)
+  - [Freelancer Temp GH](https://github.com/StartBootstrap/startbootstrap-freelancer)
 \
 &nbsp;
 
