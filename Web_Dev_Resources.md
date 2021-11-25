@@ -33,6 +33,8 @@
   - [GH Articles](#gh-articles)
   - [GH Docs / Training](#gh-docs--training)
 - [JavaScript](#javascript)
+  - [Event Loop](event-loop)
+  - [JS Articles](#js-articles)
 - [Junior Dev Tips](#junior-dev-tips)
 - [Linux](#linux)
   - [Articles](#articles)
@@ -192,6 +194,9 @@
 &nbsp;
 
 ## *JavaScript*
+### JS Articles
+- [4 JavaScript Concepts That Every Developer Should Know](https://javascript.plainenglish.io/4-javascript-concepts-that-every-developer-should-know-a20f0d4c9dd8)
+
 ### Event Loop
 - [What the heck is the event loop anyway? - Philip Roberts - JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=8s)
 \
