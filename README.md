@@ -5,4 +5,6 @@ Articles, Links, Resources, Tutorials that have been waiting to be used. This pr
 
 ## [Web Dev Resources](./Web_Dev_Resources.md)
 
+## [Web Dev Team Hack](./Web_Dev_Team_Hack.md)
+
 ## [Other Resources](./Other_Resources.md)
