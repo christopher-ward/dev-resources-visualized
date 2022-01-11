@@ -183,6 +183,7 @@
 ## *GitHub*
 ### GH Articles
 - [How to combine two git repositories](https://gist.github.com/msrose/2feacb303035d11d2d05)
+- [GitHub Wrapped](https://www.producthunt.com/posts/github-wrapped-4)
 
 ### GH Docs / Training
 - [GitHub Training Hub](https://training.github.com/)
