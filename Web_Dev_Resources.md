@@ -6,6 +6,7 @@
 - [Blitz](#blitz)
 - [Blogging](#blogging)
 - [Bootstrap](#bootstrap)
+- [Cheat Sheets](#cheat-sheets)
 - [CMS](#cms)
 - [Collections](#collections)
 - [CSS](#css)
@@ -88,8 +89,15 @@
 \
 &nbsp;
 
+## *Cheat Sheets*
+- [35 Website Cheat Sheets For Developers](https://levelup.gitconnected.com/35-website-cheat-sheets-for-developers-f8da96aa84f1)
+\
+&nbsp;
+
 ## *CMS*
 - [Drupal](https://www.drupal.org/)
+\
+&nbsp;
 
 ## *Collections*
 - [Awesome React](https://github.com/enaqx/awesome-react)
